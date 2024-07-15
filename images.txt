@@ -2,3 +2,4 @@ python:3.11-bullseye
 redis
 mysql:5.7
 fedirz/faster-whisper-server:latest-cpu
+ghcr.io/ggerganov/whisper.cpp:main
