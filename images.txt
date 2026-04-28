@@ -1,4 +1,4 @@
-https://ghcr.io/astral-sh/uv:latest
+ghcr.io/astral-sh/uv:latest
 pgvector/pgvector:pg18
 node:24-alpine
 postgres:16-alpine
